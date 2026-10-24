@@ -1,0 +1,6 @@
+# robots.txt for https://jiuyun.mom/
+User-agent: *
+Allow: /
+
+# Sitemap absolute URL
+Sitemap: https://jiuyun.mom/sitemap.xml
